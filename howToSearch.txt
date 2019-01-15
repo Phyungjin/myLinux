@@ -1,0 +1,7 @@
+google에서 명령어 찾는 법
+
+create dictionary in linux
+
+file copy in linux
+
+move file in linux

@@ -1,0 +1,6 @@
+sudo(super user do) permission super user root user
+
+
+apt-get install git // 권한이 없어서 설치가 안됨
+
+sudo apt-get install git 
